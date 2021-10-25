@@ -1,5 +1,5 @@
 # TSpreadIdeals
-A Macaulay2 package to deal with t-spread ideals of a polynomial ring. Please find more details about the package in this paper.  
+A Macaulay2 package to deal with t-spread ideals of a polynomial ring. Please find more details about the package in this [paper](https://arxiv.org/abs/2110.11801).  
 
 Introduction
 ===================
